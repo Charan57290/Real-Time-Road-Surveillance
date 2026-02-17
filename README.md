@@ -52,10 +52,7 @@ The dataset is publicly available on Roboflow and Kaggle:
 - Kaggle Dataset: [Top-View Vehicle Detection Image Dataset](https://www.kaggle.com/datasets/farzadnekouei/top-view-vehicle-detection-image-dataset)
 
 
-## 🎥 YouTube Demo
-Real-Time Traffic Density Estimation with YOLOv8 in Action:
 
-[![Traffic Density Estimation Demo](https://img.youtube.com/vi/5SxQfWLENh8/0.jpg)](https://youtu.be/5SxQfWLENh8)
 
 
 ## 📁 File Descriptions
